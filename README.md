@@ -19,6 +19,7 @@ Exemplo(Win):
 JAVA_HOME: *Adicione uma nova variável com este nome, conforme imagem abaixo:*
 
 Exemplo(win):
+
 ![path](/assets/images/java_home.JPG)
 
 **4. Testando a instalação**
@@ -29,10 +30,12 @@ win+R cmd
 Digite o comando java -version e pressione enter
 
 Exemplo de output:
+
 ![path](/assets/images/java_version.JPG)
 Digite o comando javac e pressione enter
 
 Exemplo de output:
+
 ![path](/assets/images/java_c.JPG)
 
 
