@@ -39,4 +39,8 @@ Exemplo de output:
 
 ![path](/assets/images/java_c.JPG)
 
+## Instalando o Mavem:
 
+## Instalando o Gradle:
+
+## Visual Studio Code Setup:
