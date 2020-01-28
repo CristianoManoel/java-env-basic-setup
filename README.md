@@ -32,6 +32,7 @@ Digite o comando java -version e pressione enter
 Exemplo de output:
 
 ![path](/assets/images/java_version.JPG)
+
 Digite o comando javac e pressione enter
 
 Exemplo de output:
