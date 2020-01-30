@@ -53,10 +53,10 @@ Exemplo de output:
 
 Exemplo:
 
-![java.home](/assets/images/Settings_vs_code.JPG)
+![java home](/assets/images/Settings_vs_code.JPG)
 
 **1.1 Edite o arquivo settings.json adicionando o caminhando da instalação do JDK**
 
 Exemplo:
 
-![java.home](/assets/images/setting_json_edit.JPG)
+![java home](/assets/images/setting_json_edit.JPG)
