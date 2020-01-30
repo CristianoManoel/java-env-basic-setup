@@ -24,7 +24,7 @@ JAVA_HOME: *Adicione uma nova variável com este nome, conforme imagem abaixo:*
 
 Exemplo(win):
 
-![path](/assets/images/java_home.JPG)
+![java_home](/assets/images/java_home.JPG)
 
 **4. Testando a instalação**
 
@@ -35,16 +35,28 @@ Digite o comando java -version e pressione enter
 
 Exemplo de output:
 
-![path](/assets/images/java_version.JPG)
+![java version](/assets/images/java_version.JPG)
 
 Digite o comando javac e pressione enter
 
 Exemplo de output:
 
-![path](/assets/images/java_c.JPG)
+![java c](/assets/images/java_c.JPG)
 
 ## Instalando o Mavem:
 
 ## Instalando o Gradle:
 
 ## Visual Studio Code Setup:
+
+**1. Configure a variavel java home nos settings do visual studio code**
+
+Exemplo:
+
+![java.home](/assets/images/Settings_vs_code.JPG)
+
+**1.1 Edite o arquivo settings.json adicionando o caminhando da instalação do JDK**
+
+Exemplo:
+
+![java.home](/assets/images/setting_json_edit.JPG)
