@@ -60,3 +60,12 @@ Exemplo:
 Exemplo:
 
 ![java home](/assets/images/setting_json_edit.JPG)
+
+**2. Instale as extensions abaixo**
+
+- Java Extension Pack
+- Spring Boot Tools
+- Spring Initializr Java Support
+- Spring Boot Dashboard
+- Jetty
+- CheckStyle
